@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Project Honey Pot is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://projecthoneypot.org/
+Project Honey Pot operates a collaborative anti‑spam network that tracks online fraud and abuse. By deploying “honeypot” traps on participating websites, it gathers data on malicious IP addresses, email harvesters, and spammers. The collected intelligence is made available via a public HTTP:BL DNS‑based API, allowing website owners and security tools to query the reputation of IPs in real time. The service aims to reduce spam, phishing, and other abusive activities across the web through community‑driven data sharing.
+
+**Areas:** Anti‑Spam · Security · Community · Fraud Prevention · Open Data
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://projecthoneypot.org/)
+- [Documentation](https://www.projecthoneypot.org/httpbl_api.php)
+- [Getting started](https://projecthoneypot.org/create_account.php)
+- [API reference](https://www.projecthoneypot.org/httpbl_api.php)
+- [Sign up](https://projecthoneypot.org/create_account.php)
+- [Support](https://projecthoneypot.org/faq.php)
+- [Terms of service](https://projecthoneypot.org/terms_of_use.php)
+- [Privacy policy](https://projecthoneypot.org/privacy_policy.php)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/project-honeypot/](https://apis.io/providers/project-honeypot/).
